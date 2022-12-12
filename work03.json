@@ -1,0 +1,54 @@
+{
+    "Films": {
+        "Avatar": 
+            {
+                "release ": "2009",
+                "category": "12+",
+                "IMDb rating": "7.8",
+                "duration": "2h 42m",
+                "director": "James Cameron",
+                "top cast": "Sam Worthington"
+            }
+        ,
+        "The Shawshank Redemption": 
+            {
+                "release ": "1994",
+                "category": "16+",
+                "IMDb rating": "9.3",
+                "duration": "2h 22m",
+                "director": "Frank Darabont",
+                "top cast": "Morgan Freeman"
+            }
+        ,
+        "Inception": 
+            {
+                "release ": "2010",
+                "category": "12+",
+                "IMDb rating": "8.8",
+                "duration": "2h 28m",
+                "director": "Christopher Nolan",
+                "top cast": "Leonardo DiCaprio"
+            }
+        ,
+        "Gladiator": 
+            {
+                "release ": "2000",
+                "category": "18+",
+                "IMDb rating": "8.5",
+                "duration": "2h 35m",
+                "director": "Ridley Scott",
+                "top cast": "Russell Crowe"
+            }
+        ,
+        "Intouchables": 
+            {
+                "release ": "2011",
+                "category": "14+",
+                "IMDb rating": "8.5",
+                "duration": "1h 52m",
+                "director": "Olivier Nakache",
+                "top cast": "Omar Sy"
+            }
+        
+    }
+}
